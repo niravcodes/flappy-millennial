@@ -2,7 +2,7 @@
 
 Help this Flappy Millennial ignore reality while he scrolls through Instagram or something. Play this game not because it's good or anything, but simply to pretend that everything is okay for a while.
 
-<p align="center">![preview of game](assets/preview.gif)</p>
+![preview of game](assets/preview.gif)
 
 ## Why? 
 
