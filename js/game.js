@@ -98,7 +98,7 @@ let pipeTop, pipeBottom, pipe2Top, pipe2Bottom, resetWord
 
         return new Character(
             new Kinetics(movePipeMaker(outOfScreen), cw + offset + pipeStartingOffset, y),
-            new Collider("pipe", undefined, pipeWidth, 10, 0, 0),
+            new Collider("pipe", undefined, pipeWidth, 600, 0, 0),
             drawFn,
             pipeWidth + (top ? 20 : 0), (pipeWidth) * (top ? 7 : 4),
             outOfScreen

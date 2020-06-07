@@ -11,7 +11,7 @@ This game was made with a version of that game engine.
 
 # How to play?
 
-Game is live at [nirav.com.np/flappyMillennial](https://nirav.com.np/flappy-millennial).
+Game is live at [nirav.com.np/flappy-millennial](https://nirav.com.np/flappy-millennial).
 
 # How to play locally?
 

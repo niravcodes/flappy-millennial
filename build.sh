@@ -3,7 +3,7 @@
 echo "Rebuilding Game"
 rm -rf dist
 mkdir -p dist/js
-cp index.html dist/index.html
+cp index_dist.html dist/index.html
 cp favicon.ico dist/favicon.ico
 
 echo "Copying Assets"
