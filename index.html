@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset='utf-8'>
+    <title>Flappy Milennial</title>
+    <link href="https://fonts.googleapis.com/css2?family=Economica:wght@400;700&display=swap" rel="stylesheet">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fingerprintjs2/2.1.0/fingerprint2.min.js" integrity="sha256-S/UuH5LOnqk/MwJZQ9ANv+XnP/HI3cFQeu6KyC003A8=" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/ua-parser-js@0/dist/ua-parser.min.js"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <style>
+        body{margin:0;padding:0}
+        @media screen and (max-width:460px){
+            canvas{
+                /* Transform instead of width */
+                width:300px;
+                height:450px;
+            }
+            body{
+                overflow:hidden;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <canvas id="game" height=600 width=460></canvas>
+    <script src="js/game.js"></script>
+</body>
+
+</html>
