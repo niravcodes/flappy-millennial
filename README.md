@@ -35,9 +35,27 @@ it's supported in most browsers, including mobile). Without this conversion, the
 
 Once you've `npm install`ed, try `npm run build`. It executes `./build.sh` and creates a optimized game in the `dist` folder.
 
+# How to modify the game?
+
+All JavaScript code is in the `js` folder. Main game logic is in `js/game.js` (go read it). 
+The `js/library` folder contains the game engine code. But keep in mind that the library is 
+severely lacking and needs a lot of work. Further, the API is quite fluid at this point; and 
+still in that phase of experimentation and discovery. Plus it isn't optimised for the canvas. 
+As such, I'd recommend that you don't use it yet. 
+
+I'll publish a better version when I make it, and with proper documentation too.
+
+# What License?
+
+**All published code in this repository is *MIT Licensed***. MIT license allows you to do what you want
+with my code, as long as you maintain the copyright notice. Read LICENSE.md for details.
+
+The artwork for Flappy Milennial's titular character is copyrighted. If you're posting a modified version, please
+change the file `assets/FlappyMillennialFly.png` to something else.
+
 # Other works used
 
-The background was made by Vicente Nitti (@vnitti_art on Twitter). Check out some of his work [here](https://vnitti.itch.io/).
+The background art was done by Vicente Nitti (@vnitti_art on Twitter). Check out some of his work [here](https://vnitti.itch.io/).
 
 Uses [Fingerprintjs2](https://github.com/Valve/fingerprintjs2) by Valve and 
 [ua-parser-js](https://github.com/faisalman/ua-parser-js) for analytics. Not strictly 
