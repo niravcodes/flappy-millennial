@@ -1,7 +1,7 @@
 // The code is MIT Licenced, read LICENSE.md for details
 // Author: Nirav (mail@nirav.com.np)
 // Ideally, all these characters would be separated into their 
-// own files, but at this scale that might challenge readibility.
+// own files, but at this scale that might challenge readability.
 
 let DEBUGMODE = window.DEBUGMODE = false;
 import {
