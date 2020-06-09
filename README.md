@@ -35,6 +35,10 @@ it's supported in most browsers, including mobile). Without this conversion, the
 
 Once you've `npm install`ed, try `npm run build`. It executes `./build.sh` and creates an optimized game in the `dist` folder.
 
+# I want more!
+
+Woah, easy there, buddy! For now check out **[the corresponding blog post](https://nirav.com.np/2020/06/09/flappy-millennial-an-html5-canvas-game.html)** on my [blog](https://nirav.com.np/).
+
 # How to modify the game?
 
 All JavaScript code is in the `js` folder. Main game logic is in `js/game.js` (go read it). 
