@@ -11,7 +11,7 @@ This game was made with a version of that game engine.
 
 # How to play?
 
-Game is live at [niravcodes.github.io/flappy-millennial](niravcodes.github.io/flappy-millennial).
+Game is live at [niravcodes.github.io/flappy-millennial](https://niravcodes.github.io/flappy-millennial).
 
 # How to play locally?
 
